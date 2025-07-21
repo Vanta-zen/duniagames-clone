@@ -1,0 +1,8 @@
+This directory contains image assets for the DuniaGames clone.
+
+For the loading animation, you can:
+1. Download the original DG-Loading-Icons.gif from https://duniagames.co.id/assets/images/DG-Loading-Icons.gif
+2. Or use any loading spinner GIF of your choice
+3. Save it as "DG-Loading-Icons.gif" in this directory
+
+The website will work without the GIF, showing a text loading message instead.
